@@ -2,4 +2,4 @@ critstorm
 =========
 Awwww yea its critiquing time!
 
-#General guideliens will go here
+#General guidelines will go here
